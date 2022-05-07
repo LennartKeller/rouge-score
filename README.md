@@ -1,5 +1,9 @@
 # Python ROUGE Implementation
 
+# Note
+
+Install with `pip install git+https://github.com/LennartKeller/rouge-score.git`
+
 ## Overview
 
 This is a native python implementation of ROUGE, designed to replicate results
